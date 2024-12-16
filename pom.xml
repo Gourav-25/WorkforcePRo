@@ -14,7 +14,7 @@
         <version>2.18.1</version>
         <configuration>
               <suiteXmlFiles>
-                      <suiteXmlFile>testng1.xml</suiteXmlFile>
+                      <suiteXmlFile>testngST.xml</suiteXmlFile>
               </suiteXmlFiles>
                       </configuration>
                        </plugin>
